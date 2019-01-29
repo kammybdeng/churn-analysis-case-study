@@ -1,6 +1,7 @@
 ## Case Study - Churn Prediction
 
 Forked from the original source, but data folder is removed.
+Solution and recommendation are presented on my [report](https://github.com/kammybdeng/churn-analysis-case-study/blob/master/Churn-Prediction-Report.ipynb)
 
 ***
 
